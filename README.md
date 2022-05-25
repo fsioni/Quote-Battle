@@ -1,6 +1,6 @@
 # LIFAP5-projet
 
-[Project result page](http://safa.pages.univ-lyon1.fr/lifap5-projet/index.html)
+[Project result page](http://safa.pages.univ-lyon1.fr/lifap5-projet/index.html) Communication with the REST API unavailable. Server has been closed
 
 [Project tests page](http://safa.pages.univ-lyon1.fr/lifap5-projet/test.html)
 
